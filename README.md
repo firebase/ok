@@ -1,4 +1,4 @@
 ok
 ==
 
-HTTPS CDN Proxy Healthy Check
+HTTPS CDN Proxy Health Check
